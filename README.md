@@ -1,5 +1,6 @@
 # gokuri_counter
 Measure the number of times you drink water with a glass.
+![sample](https://user-images.githubusercontent.com/69660581/100310779-54b98400-2ff1-11eb-8ec1-3234b35e492c.gif)
 
 ## ■Requirements
 - PC with webcam (Browser).
