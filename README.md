@@ -13,6 +13,11 @@
 
 ※See below for details. ( https://qiita.com/PoodleMaster )
 
+## ■Sample
+- Please access the following URL.
+
+URL：https://gokuri-counter.herokuapp.com/
+
 ## ■Contributing
 Contributions, issues and feature requests are welcome.
 
