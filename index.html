@@ -2,7 +2,7 @@
 <div>ゴクリ・カウンター By <a href='https://qiita.com/PoodleMaster'>PoodleMaseter</a></div>
 <div><img id="icon" height="50"></div>
 <div>Please Push Start Button</div>
-<button type="button" onclick="init()">Start</button>
+<button type="button" onclick="init()" id="button">Start</button>
 <div id="webcam-container"></div>
 <div style="position:absolute; top:100px; left:230px; width:500px"><canvas id="graph_canvas1"></canvas></div>
 <div style="position:absolute; top:350px; left: 10px; width:200px"><canvas id="graph_canvas2"></canvas></div>
@@ -138,6 +138,7 @@
 
 	// Load the image model and setup the webcam
 	async function init() {
+		document.getElementById("button").disabled = true;
 		const modelURL = URL + "model.json";
 		const metadataURL = URL + "metadata.json";
 
