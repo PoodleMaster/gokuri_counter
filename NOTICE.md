@@ -1,4 +1,4 @@
-# ■NOTICE
+# NOTICE
 This software includes the work that is distributed in the Apache License 2.0, MIT License.
 
 ## ■ [TensorFlow.js](https://github.com/tensorflow/tfjs)
