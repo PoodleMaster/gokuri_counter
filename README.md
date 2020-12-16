@@ -11,7 +11,7 @@
 - git clone https://github.com/PoodleMaster/gokuri_counter
 - Open index.html in your browser.
 
-※See below for details. ( https://qiita.com/PoodleMaster )
+※See below for details. ( https://qiita.com/PoodleMaster/items/f08805bcf4e7596ba25b )
 
 ## ■Sample
 - Please access the following URL.
